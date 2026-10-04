@@ -34,7 +34,7 @@
     - Since it is a Web Server that includes other projects, I attempted to create a todo-list environment, however I didn't finish it.
   - ... I don't remember... aha! 💡. Also a working terminal-based clock that shows the time, the performance is not good, maybe I will improve the code. For instance, if it is 3 AM it highlights the time in a given color 🕒, not really experimental, but mostly a fun project, and it was mostly about a meme.
   - Random number generator (experimental) using C++ memory addresses, on Python, by using a DLL file (a really weird way to do it) and also some calculations for which I forgot the formulas. 🔢
-    
-    
+  - aaaaaaaandddd!!!... 🤔💭 (... where are the tun-tun-tun sound effects??? ah wait we are on Github) yeah Kitora!!! (fully experimental) - documentation will be uploaded.
+
   
   
