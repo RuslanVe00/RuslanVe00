@@ -28,12 +28,11 @@
 
   First, it was about hacking... yeah. Eventually, I learnt that it is waaaaay beyond that, and it's really interesting for me. I find it as a thing where I can create things unconditionally - I don't need physical materials which cost money, and even beyond that.
 
-# Experimental & non-experimental projects
+# Experimental & non-experimental projects (recent)
 
   - Web Servers (experimental) written from scratch on Python, basic HTTP handling... and slow performance. However, it was a good project that I've already left behind... and it somewhere... in my folders! 📁
     - Since it is a Web Server that includes other projects, I attempted to create a todo-list environment, however I didn't finish it.
-  - ... I don't remember... aha! 💡. Also a working terminal-based clock that shows the time, the performance is not good, maybe I will improve the code. For instance, if it is 3 AM it highlights the time in a given color
-  - 🕒, not really experimental, but mostly a fun project, and it was mostly about a meme.
+  - ... I don't remember... aha! 💡. Also a working terminal-based clock that shows the time, the performance is not good, maybe I will improve the code. For instance, if it is 3 AM it highlights the time in a given color 🕒, not really experimental, but mostly a fun project, and it was mostly about a meme.
   - Random number generator (experimental) using C++ memory addresses, on Python, by using a DLL file (a really weird way to do it) and also some calculations for which I forgot the formulas. 🔢
     
     
