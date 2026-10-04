@@ -13,7 +13,7 @@
       language and it is mostly for the experience. It's not something serious.
 
   **Experience** 🚶‍♂️‍➡️:
-  - **Python** : Intermerdiate level (advanced beginner);
+  - **Python** : Intermediate level (advanced beginner);
   - **HTML/CSS** : beginner-to-intermediate level;
   - **C++/C** : beginner-to-intermediate level;
   - **C#** : beginner;
