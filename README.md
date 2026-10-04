@@ -19,5 +19,9 @@
   - **C#** : beginner;
   - **Javascript** beginner-to-intermediate level;
 
+# How did I start learning programming?
+
+   I'm a bit shy to talk about it, I'm actually experiencing shame from it, well... it started from the COVID pandemic and I was like 'Woah, hackers are so cool!' and yeah, around it, I started
+   learning programming and turned out that I like it.
   
   
