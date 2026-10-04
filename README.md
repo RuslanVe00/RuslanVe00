@@ -7,6 +7,9 @@
 
   I'm 22-year old - intermediate Python programmer and programming enthusiast.
   I'm into programming from 5 years ago now, and I'm really interested in it. I've had some problems in the last 2 years, so I don't really count them, which makes it 3 years of full experience + 2 years partially.
+  🔬Personality tests:
+    - I think INTP that was my first ever result, but I'm INFP mostly, but depends.
+    I don't know.
 
   **Current focus** 🔭: 
   - **I'm programming a programming language** ( + lexer for it) called 'Kitora' it comes from 'Kit' which in Bulgarian means a whale. It's an entry-level based programming
