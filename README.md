@@ -23,5 +23,9 @@
 
    I'm a bit shy to talk about it, I'm actually experiencing shame from it, well... it started from the COVID pandemic and I was like 'Woah, hackers are so cool!' and yeah, around it, I started
    learning programming and turned out that I like it.
+
+# Why did I start programming?
+
+  First, it was about hacking... yeah. Consequently, I learnt that it is waaaaay beyond that, and it's really interesting for me. I find it as a thing where I can create things unconditionally - I don't need physical materials which cost money, and even beyond that.
   
   
