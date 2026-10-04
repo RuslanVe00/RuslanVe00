@@ -6,7 +6,7 @@
 ### About me ℹ️
 
   I'm 22-year old - intermediate Python programmer and programming enthusiast.
-  I'm into programming from 5 years ago now, and I'm really interested in it. I've had some problems in the last 2 years, so I don't really count them, which makes it 3 years of full experience + 2 years partially.
+  I'm into programming from 5 years ago now, and I'm really interested in it. I've had some problems in the last 2 years, so I don't really count them, which makes it 3 years of full experience + 2 years partially. So let's assume - ~4.5 years of experience. ~3-4.5 if we can be precise.
   - 🔬Personality tests:
     - I think INTP that was my first ever result, but I'm INFP mostly, but depends.
     I don't know.
