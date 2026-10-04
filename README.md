@@ -26,6 +26,6 @@
 
 # Why did I start programming?
 
-  First, it was about hacking... yeah. Consequently, I learnt that it is waaaaay beyond that, and it's really interesting for me. I find it as a thing where I can create things unconditionally - I don't need physical materials which cost money, and even beyond that.
+  First, it was about hacking... yeah. Eventually, I learnt that it is waaaaay beyond that, and it's really interesting for me. I find it as a thing where I can create things unconditionally - I don't need physical materials which cost money, and even beyond that.
   
   
