@@ -16,7 +16,7 @@
   - **Python** : Intermediate level (advanced beginner);
   - **HTML/CSS** : beginner-to-intermediate level;
   - **C++/C** : beginner-to-intermediate level;
-  - **C#** : beginner;
+  - **C#** : beginner - have a really small experience, ... I think I know how to write a 'Hello, World' program... at least I think but I'm not sure;
   - **Javascript** beginner-to-intermediate level;
 
 # How did I start learning programming?
